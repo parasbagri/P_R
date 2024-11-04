@@ -2,7 +2,9 @@
 
 function StartGame(){
     return(
-        <div></div>
+        <>
+           <h1>Start Game</h1>
+        </>
     )
 
 } 
